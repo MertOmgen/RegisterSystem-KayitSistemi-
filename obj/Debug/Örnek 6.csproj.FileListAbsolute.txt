@@ -1,0 +1,7 @@
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 6\Örnek 6\bin\Debug\Örnek 6.exe.config
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 6\Örnek 6\bin\Debug\Örnek 6.exe
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 6\Örnek 6\bin\Debug\Örnek 6.pdb
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 6\Örnek 6\obj\Debug\Örnek 6.csprojResolveAssemblyReference.cache
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 6\Örnek 6\obj\Debug\Örnek 6.csproj.CoreCompileInputs.cache
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 6\Örnek 6\obj\Debug\Örnek 6.exe
+D:\Projelerim\Visual Studio\Örneklerim\Örnek 6\Örnek 6\obj\Debug\Örnek 6.pdb
