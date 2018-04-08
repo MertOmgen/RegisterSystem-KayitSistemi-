@@ -59,7 +59,8 @@ namespace Örnek_6
                     sorgulama = false;
                     Bosluk();
                     Console.WriteLine("Program Kapatılıyor");
-                    break;
+                    Environment.Exit(0);
+
                 }
                 else
                 {
@@ -68,7 +69,7 @@ namespace Örnek_6
                     continue;
                 }
             } while (sorgulama != false);
-
+            
             Console.ReadKey();
         }
 
